@@ -1,4 +1,6 @@
-# is_like — Two-Hop Association Maps + CAQBI
+# CAQBI - Credit Score for an AI Model
+
+A Concept Association Quality and Bias Index for Evaluating Language Model Concept Understanding
 
 A research toolkit to probe how language models associate concepts. It generates two-hop association graphs and computes a composite **CAQBI** score (Concept Association Quality and Bias Index) from free-association trials.
 

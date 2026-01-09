@@ -21,7 +21,7 @@ export OPENAI_API_KEY="your_key_here"
 
 ## Run: Two-hop map
 ```bash
-python aga_eval_twohop1.py \
+python aga_eval_twohop.py \
   --model gpt-5.2 \
   --target BLACK \
   --total_calls 1000 \
